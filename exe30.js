@@ -31,7 +31,6 @@ function informacoesListaNumeros(){
                 menor = listaNumeros[i];
             };
         };
-
     };
 
     var media = soma / 10;
